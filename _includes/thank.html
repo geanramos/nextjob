@@ -7,7 +7,7 @@
                    <br>Atenciosamente,
                   </p>
                   <p style="margin: 0;">
-                   <strong>{{ page.nome }}</strong> &nbsp;<br />
+                   <strong>{{ page.cliente }}</strong> &nbsp;<br />
                     {% assign wzap = page.fone %}
                     {% assign linkzap = wzap | replace: "(", "" | replace: ")", "" | replace: " ", "" | replace: "-", "" %}
                     📞 <a href="https://wa.me/55{{ linkzap }}?text=Ola%2C%20quero%20lhe%20contratar.%20%23nextjob" target="_blank">{{ page.fone }}</a> &nbsp;<br />
