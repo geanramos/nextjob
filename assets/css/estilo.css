@@ -5,14 +5,19 @@
    body {
     margin: 0;
     padding: 0;
-    background: url('https://i.imgur.com/VWWBkaz.jpeg') no-repeat center center;
+    /*! background: url('https://i.imgur.com/VWWBkaz.jpeg') no-repeat center center; */
    }
 
    a[x-apple-data-detectors] {
     color: inherit !important;
     text-decoration: inherit !important;
    }
-
+   a {
+     color: #00f;
+   }
+   a:hover {
+     color: #f03;
+   }
    #MessageViewBody a {
     color: inherit;
     text-decoration: none;
