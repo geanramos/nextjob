@@ -5,7 +5,7 @@
                  <div class="alignment" align="center">
                   <div align="center" style="max-width: 70px;">
                    <a href="./" target="_self" style="outline:none" tabindex="-1">
-                    <img align="center" src="https://geanramos.com.br/img/avatar-.png" style="display: block; height: auto; border: 0; width: 100%; border-radius: 45px 45px 5px 45px;" width="70" alt="Next Job" title="Next Job" height="70">
+                    <img align="center" src="{% if page.avatar %}{{ page.avatar }}{% else %}{{ site.avatar }}{% endif %}" style="display: block; height: auto; border: 0; width: 100%; border-radius: 45px 45px 5px 45px;" width="70" alt="Next Job" title="Next Job" height="70">
                    </a>
                   </div>
                  </div>
