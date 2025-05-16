@@ -5,7 +5,7 @@
                   <table align="center" class="social-table" width="216px" border="0" cellpadding="0" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; display: inline-block;">
                    <tr>
                     <td align="center" style="padding:0 2px 0 2px;">
-                     <a href="https://gean.me/fb" target="_blank">
+                     <a href="https://www.facebook.com/sharer/sharer.php?u={{ page.url | absolute_url }}" target="_blank">
                       <img src="https://geanramos.com.br/img/facebook.png" width="32" height="32" alt="facebook" title="facebook" style="display: block; height: auto; border: 0;">
                      </a>
                     </td>
@@ -15,22 +15,22 @@
                      </a>
                     </td>
                     <td align="center" style="padding:0 2px 0 2px;">
-                     <a href="https://gean.me/thr" target="_blank">
+                     <a href="https://www.threads.com/intent/post?text={{ page.title | escape }}%20{{ page.url | absolute_url }}" target="_blank">
                       <img src="https://geanramos.com.br/img/threads.png" width="32" height="32" alt="Threads" title="Threads" style="display: block; height: auto; border: 0;">
                      </a>
                     </td>
                     <td align="center" style="padding:0 2px 0 2px;">
-                     <a href="https://gean.me/tw" target="_blank">
+                     <a href="https://twitter.com/intent/tweet?url=URL_DO_POST&text=Confira%20esta%20vaga:%20{{ page.title | escape }}%20{{ page.description | default: site.description }}%0A{{ page.url | absolute_url }}" target="_blank">
                       <img src="https://geanramos.com.br/img/twitter.png" width="32" height="32" alt="twitter" title="twitter" style="display: block; height: auto; border: 0;">
                      </a>
                     </td>
                     <td align="center" style="padding:0 2px 0 2px;">
-                     <a href="https://gean.me/bs" target="_blank">
+                     <a href="https://bsky.app/intent/compose?text={{ page.title | escape }}%20{{ page.url | absolute_url }}" target="_blank">
                       <img src="https://geanramos.com.br/img/bluesky.png" width="32" height="32" alt="Bluesky" title="Bluesky" style="display: block; height: auto; border: 0;">
                      </a>
                     </td>
                     <td align="center" style="padding:0 2px 0 2px;">
-                     <a href="https://gean.me/zap" target="_blank">
+                     <a href="https://api.whatsapp.com/send?text=Confira%20esta%20vaga:%20{{ page.title | escape }}%20{{ page.description | default: site.description }}%0A{{ page.url | absolute_url }}" target="_blank">
                       <img src="https://geanramos.com.br/img/whatsapp.png" width="32" height="32" alt="WhatsApp" title="WhatsApp" style="display: block; height: auto; border: 0;">
                      </a>
                     </td>
