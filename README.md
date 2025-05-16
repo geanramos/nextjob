@@ -25,7 +25,3 @@ Acesse, explore e conquiste seu próximo emprego sem dor de cabeça! 🚀
  ┣ 📜 Gemfile.lock       → Arquivo gerado automaticamente
  ┗ 📜 .gitignore         → Arquivos que não devem ser versionados no Git
  
- 
- {% include header.html %}
- {% include footer.html %}
-
