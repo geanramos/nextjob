@@ -1,11 +1,11 @@
 title: "Next Job"
 author: "Gean Ramos"
-email: "geanramos@nextjob.com"
+email: "nextjob@geanramos.com.br"
 description: "Next Job – Porque procurar emprego não precisa ser complicado!"
 permalink: ':title'
 image: "img/avatar-.png"
 baseurl: ""
-url: "https://nextjob.com"
+url: "https://nextjob.u1m.com.br"
 theme: minima
 markdown: kramdown
 paginate: 10
