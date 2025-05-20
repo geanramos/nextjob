@@ -1,16 +1,19 @@
 ---
 layout: default
 ---
+<!--inicio post.html-->
+{% assign wzap = page.fone %}
+{% assign linkzap = wzap | replace: "(", "" | replace: ")", "" | replace: " ", "" | replace: "-", "" %}
 <table align="center" class="paragraph_block block-5" width="100%" border="0" cellpadding="10" cellspacing="0" role="presentation" style="mso-table-lspace: 0pt; mso-table-rspace: 0pt; word-break: break-word;">
- <tr>
-  <td align="center" class="pad">
-   <div style="color:#292f33;direction:ltr;font-family:'Roboto', Tahoma, Verdana, Segoe, sans-serif;font-size:14px;font-weight:400;letter-spacing:0px;line-height:1.2;text-align:left;mso-line-height-alt:17px;">
-    <p style="margin: 0;"></p>
-    {{ content }}
-    <!--<p>Tags: {% for tag in page.tags %} <span>#{{ tag }}</span> {% endfor %}</p>-->
-   </div>
-  </td>
- </tr>
+<tr>
+<td align="left" class="pad">
+<div style="color: #3c4043; direction: ltr; font-family: 'Roboto', Tahoma, Verdana, Segoe, sans-serif; font-size: 14px; font-weight: 400; letter-spacing: 0px; line-height: 1.2; text-align: left; mso-line-height-alt: 17px;">
+<p style="margin: 0;"><a href="https://u1m.com.br/{{ linkzap }}" target="_blank">
+    <img src="https://static.wixstatic.com/media/e314c2_1bf99aea7981443da60ca9b20dcc9a50~mv2.gif" alt="Imagem" width="50" height="50" style="border-radius: 4px; float: right;">
+</a></p>
+{{ content }}
+</div>
+</td>
+</tr>
 </table>
-{% include botao.html %}
-{% include thank.html %}
+<!--fim post.html-->
