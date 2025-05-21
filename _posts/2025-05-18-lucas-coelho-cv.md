@@ -2,7 +2,7 @@
 layout: page
 title: "Lucas Coelho - Seu currículo no Google Docs"
 description: "Edite seu currículo no Google Docs com cuidado, pois será enviado às empresas. Revise antes de compartilhar!"
-tags: [next-job, lucas-coelho]
+tags: [next-job]
 date: 2025-05-18
 cliente: "Next Job"
 email: "nextjob777@gmail.com"
