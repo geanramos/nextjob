@@ -3,7 +3,7 @@ layout: post
 title: "#009 - Analista de RH | CF Distribuidora"
 description: "Profissional comprometido, comunicativo e adaptável, pronto para agregar valor à equipe!"
 tags: [roberto-tavares]
-date: 2025-05-17
+date: 2025-05-23
 cliente: "Roberto das Chagas Tavares"
 email: "betocht@gmail.com"
 fone: "(91) 98153-8828"
