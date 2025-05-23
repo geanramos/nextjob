@@ -22,7 +22,7 @@ Ao longo da minha carreira, atuei como auxiliar de escritório e faturista por m
 Clique no botão abaixo para visualizar meu currículo resumido.
 
 
-<center><a href="{{ page.urlbt }}" class="btn" style="display: inline-block;padding: 8px 25px;color: white;font-size: 14px;text-decoration: none;border-radius: 4px;text-align: center;cursor: pointer;display: inline-block;font-weight: 400;font-family: 'Roboto', Tahoma, Verdana, Segoe, sans-serif;background-color: #8a1c2f;">Baixar Currículo</a></center>
+<center><a href="{{ page.urlbt }}" class="btn" style="display: inline-block;padding: 8px 25px;color: white;font-size: 14px;text-decoration: none;border-radius: 4px;text-align: center;cursor: pointer;display: inline-block;font-weight: 700;font-family: 'Roboto', Tahoma, Verdana, Segoe, sans-serif;background-color: #15e;">Baixar Currículo</a></center>
 
 Desde já, agradeço pela atenção e estou à disposição para quaisquer informações adicionais.
 
