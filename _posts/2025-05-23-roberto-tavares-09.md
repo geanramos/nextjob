@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "#009 - Analista de RH | CF Distribuidora"
+title: "#009 | Analista de RH | CF Distribuidora"
 description: "Profissional comprometido, comunicativo e adaptável, pronto para agregar valor à equipe!"
 tags: [roberto-tavares]
 date: 2025-05-23
