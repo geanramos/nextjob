@@ -2,7 +2,7 @@
 layout: post
 title: "#008 | Contabilidade/Fiscal | CF Distribuidora"
 description: "Profissional comprometido, comunicativo e adaptável, pronto para agregar valor à equipe!"
-tags: [roberto-tavares]
+tags: [lucas-coelho]
 date: 2025-05-23
 cliente: "Lucas Coelho"
 email: "lucascoelho1995l@gmail.com"
