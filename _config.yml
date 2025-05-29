@@ -5,8 +5,8 @@ description: "Next Job – Porque procurar emprego não precisa ser complicado!"
 permalink: ':title'
 image: "https://d15k2d11r6t6rl.cloudfront.net/pub/bfra/mc32312m/m17/9r2/5eg/data-cta.png" #https://picsum.photos/600/363
 avatar: "https://geanramos.com.br/img/avatar-.png"
-baseurl: ""
-url: "https://dev.geanramos.com.br/nextjob"
+baseurl: "/nextjob"
+url: "https://dev.geanramos.com.br"
 theme: minima
 markdown: kramdown
 paginate: 10
